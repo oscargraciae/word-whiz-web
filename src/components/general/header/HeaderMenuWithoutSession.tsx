@@ -11,9 +11,6 @@ export const HeaderMenuWithoutSession = () => {
   return (
     <>
       <div className='space-x-6'>
-        <Link href='/publica-tu-espacio'>
-          <a className='px-6 py-3 text-white bg-purple-500 rounded-full'>Publica tu espacio</a>
-        </Link>
         <MenuNavLink onClick={() => setOpenLogin(true)} text='Inicio de sesión' />
         <MenuNavLink onClick={() => setOpenSignup(true)} text='Crear cuenta' />
       </div>

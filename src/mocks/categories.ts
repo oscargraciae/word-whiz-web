@@ -1,0 +1,86 @@
+export const categories = [
+  {
+    name: 'Mascotas',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/beautiful-pet-portrait-small-dog-cat_23-2149218509.jpg?w=300',
+    topic: 'animals',
+  },
+  {
+    name: 'Animales',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/beautiful-shot-african-elephant-savanna-field_181624-11436.jpg?w=300',
+    topic: 'animals',
+  },
+  {
+    name: 'Animales de la selva',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/american-jaguar-nature-habitat-south-american-jungle_475641-1059.jpg?w=300',
+    topic: 'animals',
+  },
+  {
+    name: 'Animales del bosque',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/beautiful-pet-portrait-small-dog-cat_23-2149218509.jpg?w=300',
+    topic: 'animals',
+  },
+  {
+    name: 'Pajaros',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/beautiful-pet-portrait-small-dog-cat_23-2149218509.jpg?w=300',
+    topic: 'animals',
+  },
+  {
+    name: 'Animales bebes',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/beautiful-pet-portrait-small-dog-cat_23-2149218509.jpg?w=300',
+    topic: 'animals',
+  },
+  {
+    name: 'Vida marina',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/beautiful-pet-portrait-small-dog-cat_23-2149218509.jpg?w=300',
+    topic: 'animals',
+  },
+  {
+    name: 'Cocina',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/close-up-cooking-table-with-spoon-and-knife_23-2149218509.jpg?w=300',
+    topic: 'cooking',
+  },
+  {
+    name: 'Deportes',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/athleticsport-player-with-ball-and-shoes_23-2149218509.jpg?w=300',
+    topic: 'sports',
+  },
+  {
+    name: 'Viajes',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/travel-destination-map-with-tourist-information_23-2149218509.jpg?w=300',
+    topic: 'travel',
+  },
+  {
+    name: 'Videojuegos',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/playing-video-game-with-controller_23-2149218509.jpg?w=300',
+    topic: 'games',
+  },
+  {
+    name: 'Cine',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/movie-theater-with-cinema-screen-and-projector_23-2149218509.jpg?w=300',
+    topic: 'movies',
+  },
+  {
+    name: 'Comida',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/close-up-cooking-table-with-spoon-and-knife_23-2149218509.jpg?w=300',
+    topic: 'food',
+  },
+  {
+    name: 'Ocio',
+    description: '',
+    image: 'https://img.freepik.com/free-photo/athleticsport-player-with-ball-and-shoes_23-214921809.jpg?w=300',
+    topic: 'entertainment',
+  },
+]

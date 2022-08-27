@@ -10,16 +10,14 @@ interface ProfileMenuProps {
 }
 
 export const ProfileMenu = ({ user }: ProfileMenuProps) => {
-
-  console.log('user',user);
-
   return (
     <Menu as="div" className="relative flex">
       <div>
-        <Menu.Button className="relative flex justify-center items-center space-x-2">
+        <Menu.Button className="relative flex items-center justify-center space-x-2">
           <a className="sr-only">Abrir preferencias</a>
-          <img src={user?.image} alt={user?.name} width={30} height={30} className='rounded-lg' />
-          <a className='cursor-pointer hover:text-blue-500'>{user?.name}</a>
+          {/* <img src={user?.image} alt={user?.name} width={42} height={42} className='rounded-full shadow-2xl' /> */}
+          {/* <a className='cursor-pointer hover:text-blue-500'>{user?.name}</a> */}
+          <div style={{ backgroundImage: `url(${user?.image})` }} className='object-fill w-12 h-12 bg-cover rounded-full shadow-2xl' />
         </Menu.Button>
       </div>
       <Menu.Items className="absolute right-0 z-10 block mt-2 origin-top-right bg-white divide-y divide-gray-100 rounded-md shadow-lg w-52 top-6 ring-1 ring-black ring-opacity-5 focus:outline-none">

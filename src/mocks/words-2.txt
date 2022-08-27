@@ -1,0 +1,65 @@
+// array with basic animal spanish words
+export const words = [
+  {
+    word: 'perro',
+    translation: 'dog',
+    image: 'https://img.freepik.com/free-photo/beautiful-pet-portrait-dog_23-2149218450.jpg?w=300',
+    description: 'A dog is a type of domesticated animal. Known for its loyalty and faithfulness, it can be found as a welcome guest in many households across the world.',
+    // examples: [
+    //   {
+    //     sentence: 'Mi perro es muy amistoso y fiel',
+    //     translation: 'My dog is very friendly and loyal'
+    //   },
+    // ],
+    difficulty: 1,
+    category: 1,
+  },
+  {
+    word: 'gato',
+    translation: 'cat',
+    image: 'https://img.freepik.com/free-photo/adorable-cat-with-white-eyes_23-2149218450.jpg?w=300',
+    description: 'A cat is a small, typically furry, carnivorous mammal. It is the only domesticated species in the family Felidae.',
+    // examples: [
+    //   {
+    //     sentence: 'Mi gato es muy amistoso y me gusta mucho jugar con él',
+    //     translation: 'My cat is very friendly and I like playing with him',
+    //   }
+    // ],
+    difficulty: 1,
+    category: 1,
+  },
+  {
+    word: 'pez',
+    translation: 'fish',
+    image: 'https://img.freepik.com/free-photo/fresh-fish-close-up-with-white-background_23-2149218450.jpg?w=300',
+    description: 'A fish is a cold-blooded, gill-bearing, gaseous-bodied animal that lives in water. It is the only cold-blooded animal that can live in the open sea.',
+    // example: [
+    //   {
+    //     sentence: 'Hay un pez muy grande en el río',
+    //     translation: 'There is a big fish in the river',
+    //   }
+    // ],
+    difficulty: 1,
+    category: 1,
+  },
+  {
+    word: 'caballo',
+    translation: 'horse',
+    image: 'https://img.freepik.com/free-photo/brown-horse-standing-on-snow-with-white-background_23-2149218450.jpg?w=300',
+    description: 'A horse is a type of domesticated animal. Known for its loyalty and faithfulness, it can be found as a welcome guest in many households across the world.',
+    // examples: [
+    //   {
+    //     sentence: 'Mi hermano tiene un caballo en su rancho',
+    //     translation: 'My brother has a horse in his ranch',
+    //   }
+    // ],
+    difficulty: 1,
+    category: 1,
+  },
+  {
+    word: 'vaca',
+    translation: 'cow',
+    image: 'https://img.freepik.com/free-photo/white-cow-standing-on-snow-with-white-background_23-2149218450.jpg?w=300',
+    description: 'A fully grown female animal of a domesticated breed of ox, kept to produce milk or beef.',
+  }
+]

@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "mongodb"
-  url      = "mongodb+srv://chambita:vQTvpdRJJ5tvg60q@cluster0.qxxjx.mongodb.net/sharecontacts?retryWrites=true&w=majority"
+  url      = "mongodb+srv://chambita:vQTvpdRJJ5tvg60q@cluster0.qxxjx.mongodb.net/learning?retryWrites=true&w=majority"
 }
 
 model Account {
@@ -44,14 +44,16 @@ model Session {
 }
 
 model User {
-  id            String    @id @default(auto()) @map("_id") @db.ObjectId
-  name          String?
-  email         String?   @unique
-  emailVerified DateTime?
-  image         String?
-  accounts      Account[]
-  sessions      Session[]
-  card          Card[]
+  id                String              @id @default(auto()) @map("_id") @db.ObjectId
+  name              String?
+  email             String?             @unique
+  emailVerified     DateTime?
+  image             String?
+  score             Int                 @default(0)
+  accounts          Account[]
+  sessions          Session[]
+  vocabularyLearned VocabularyLearned[]
+  lessonUser        LessonUser[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -69,40 +71,109 @@ model VerificationToken {
   @@map("verificationtokens")
 }
 
-model Card {
-  id              String           @id @default(auto()) @map("_id") @db.ObjectId
-  name            String           @default("")
-  description     String?
-  userId          String
-  cardSocialLinks CardSocialLink[]
-  slug            String           @unique
-  cover           String?
-  avatar          String?
-  city            String?
+model Topic {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  name        String   @unique
+  description String?
+  image       String?
+  isActive    Boolean  @default(true)
+  order       Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
 
-  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  lessons Lesson[]
 
-  @@map("cards")
+  @@map("topics")
 }
 
-model CardSocialLink {
-  id           String @id @default(auto()) @map("_id") @db.ObjectId
-  url          String
-  cardId       String
-  socialTypeId String
+model Lesson {
+  id                String              @id @default(auto()) @map("_id") @db.ObjectId
+  name              String              @unique
+  description       String?
+  image             String?
+  isActive          Boolean             @default(true)
+  order             Int                 @default(0)
+  topicId           String              @map("topicId")
+  createdAt         DateTime            @default(now())
+  updatedAt         DateTime            @updatedAt
+  vocabulary        Vocabulary[]
+  topic             Topic               @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  lessonUsers       LessonUser[]
+  vocabularyLearned VocabularyLearned[]
 
-  card       Card       @relation(fields: [cardId], references: [id], onDelete: Cascade)
-  socialType SocialType @relation(fields: [socialTypeId], references: [id], onDelete: Cascade)
-
-  @@map("card_social_links")
+  @@map("lessons")
 }
 
-model SocialType {
-  id        String @id @default(auto()) @map("_id") @db.ObjectId
-  name      String
-  prefixurl String
-  logo      String
+model Vocabulary {
+  id                 String              @id @default(auto()) @map("_id") @db.ObjectId
+  wordSpanish        String              @unique @map("word_spanish")
+  wordEnglish        String              @unique @map("word_english")
+  descriptionSpanish String?             @map("description_spanish")
+  descriptionEnglish String?             @map("description_english")
+  image              String?
+  lessonId           String
+  isActive           Boolean             @default(true)
+  createdAt          DateTime            @default(now())
+  updatedAt          DateTime            @updatedAt
+  lesson             Lesson              @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  wordsExamples      Sentence[]
+  vocabularyLerned   VocabularyLearned[]
 
-  CardSocialLink CardSocialLink[]
-  @@map("social_types")
+  @@map("vocabularies")
 }
+
+model Sentence {
+  id              String     @id @default(auto()) @map("_id") @db.ObjectId
+  vocabularyId    String
+  sentenceSpanish String     @map("sentence_spanish")
+  sentenceEnglish String     @map("sentence_english")
+  isActive        Boolean    @default(true)
+  createdAt       DateTime   @default(now())
+  updatedAt       DateTime   @updatedAt
+  vocabulary      Vocabulary @relation(fields: [vocabularyId], references: [id], onDelete: Cascade)
+
+  @@map("sentences")
+}
+
+model VocabularyLearned {
+  id             String     @id @default(auto()) @map("_id") @db.ObjectId
+  vocabularyId   String     @unique
+  userId         String
+  lessonId       String
+  correctTimes   Int        @default(0)
+  timesPractices Int        @default(0)
+  level          String     @default("beginner") // @enum(["beginner", "intermediate", "advanced"])
+  progress       Int        @default(0)
+  isActive       Boolean    @default(true)
+  createdAt      DateTime   @default(now())
+  updatedAt      DateTime   @updatedAt
+  vocabulary     Vocabulary @relation(fields: [vocabularyId], references: [id], onDelete: Cascade)
+  user           User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  lesson         Lesson     @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+}
+
+model LessonUser {
+  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  lessonId  String   @unique
+  userId    String
+  progress  Int      @default(0) // 0 - 100
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  lesson    Lesson   @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+// model WordLearned {
+//   id             String   @id @default(auto()) @map("_id") @db.ObjectId
+//   timesWatched   Int      @default(0)
+//   timesCorrect   Int      @default(0)
+//   timesIncorrect Int      @default(0)
+//   wordId         String
+//   userId         String
+//   createdAt      DateTime @default(now())
+//   updatedAt      DateTime @updatedAt
+//   word           Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+//   user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+//   @@map("wordslearned")
+// }

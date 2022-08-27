@@ -1,0 +1,49 @@
+Words
+  id
+  word
+  description
+  example
+  image
+  difficulty
+  categoryId
+  createdAt
+  updatedAt
+
+Category:
+    id
+    name -> (Animales, Ciencia, Deportes, etc)
+    createdAt
+    updatedAt
+
+Words Learned:
+    id
+    timesWatched
+    timesCorrect
+    timesIncorrect
+    wordId
+    userId
+    createdAt
+    updatedAt
+
+
+Example Games
+    * Mostrar una palabra y escrbir la traduccion
+
+    * Mostrar una imagen y seleccionar una palabra. Las palabras que se muestran estan relacionadas a la misma cateogoria.
+    * Escuchar una imagen y seleccionar una palabra. Las palabras que se muestran estan relacionadas a la misma cateogoria.
+    * Mostrar una imagen y escribir la traduccion
+    * Mostrar una imagen y seleccionar una palabra. Las palabras que se muestran estan relacionadas a la misma cateogoria.
+
+
+El juego se acaba si se termina el reloj o si se completa la cantidad de palabras correctas.
+Cada vez que se acierta una palabra se suma un punto y se reinicia el reloj.
+
+
+Al finalizar el juego se debe de mostrar el resumen de las palabras acertadas y erradas.
+Tambien hay que mostrar los puntos que se obtienen y los puntos totales.
+
+*/
+
+*/
+
+*/

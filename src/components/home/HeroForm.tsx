@@ -5,9 +5,7 @@ export const HeroForm = () => {
   const [url, setUrl] = useState('')
 
   const createProfile = trpc.useMutation('card.create', {
-    onSuccess: () => {
-      console.log('success');
-    },
+    onSuccess: () => {},
   })
 
   return (

@@ -16,9 +16,9 @@ export const Header = () => {
   }
 
   return (
-    <header className='w-full px-6 py-3 mx-auto '>
-      <nav className='container flex items-center justify-end mx-auto'>
-        {/* <h1 className='font-bold'><Link href='/'>smart.cards</Link></h1> */}
+    <header className='w-full h-16 px-6 py-3 mx-auto border-b'>
+      <nav className='container flex items-center justify-between mx-auto'>
+        <h1 className='font-bold'><Link href='/'>English Game</Link></h1>
         <HeaderMenu />
       </nav>
     </header>

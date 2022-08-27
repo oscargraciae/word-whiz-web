@@ -8,7 +8,6 @@ export const cardRouter = createRouter()
         slug: z.string().nonempty(),
       }),
     async resolve({ input }) {
-      console.log('get card=========>', input);
       return await db.card.findFirst({
         where: { slug: input.slug },
         include: {
@@ -23,7 +22,6 @@ export const cardRouter = createRouter()
     }),
     async resolve({ input, ctx }) {
       const { url } = input;
-      console.log('ctx.user', ctx.user);
       return await db.card.create({
         data: {
           slug: url.toLowerCase().replace(/\s/g, '-'),

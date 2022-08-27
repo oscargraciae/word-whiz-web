@@ -19,8 +19,6 @@ export const AuthProvider = ({ children }: any) => {
   }, [status])
 
   if (status === 'authenticated') {
-    console.log('session data: ', session.user)
-
     return (
       <AuthContext.Provider value={{ user: session.user }}>
         {children}

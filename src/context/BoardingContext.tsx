@@ -37,7 +37,6 @@ export const OnBoardingProvider = ({ children, step }: any) => {
 
   const createSpace = trpc.useMutation('space.create', {
     onSuccess: (space: any) => {
-      console.log('data response space', space)
       router.push('/space/[id]', `/space/${space.id}`)
     }
   })
