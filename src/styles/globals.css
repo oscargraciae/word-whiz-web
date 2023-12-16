@@ -39,6 +39,14 @@ div::-webkit-scrollbar {
     @apply flex items-center justify-center px-6 text-white bg-indigo-600 border border-indigo-800 rounded-lg cursor-pointer h-9;
   }
 
+  .btn-primary-large {
+    @apply px-8 py-3 text-xl text-white bg-indigo-600 border border-indigo-800 rounded-lg disabled:bg-gray-300 disabled:border-gray-300;
+  }
+
+  .btn-primary-large:hover {
+    @apply bg-indigo-800 border-indigo-800;
+  }
+
   .btn-small {
     @apply h-4 px-2;
   }

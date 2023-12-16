@@ -117,7 +117,7 @@ model Vocabulary {
   updatedAt          DateTime            @updatedAt
   lesson             Lesson              @relation(fields: [lessonId], references: [id], onDelete: Cascade)
   wordsExamples      Sentence[]
-  vocabularyLerned   VocabularyLearned[]
+  vocabularyLearned   VocabularyLearned[]
 
   @@map("vocabularies")
 }

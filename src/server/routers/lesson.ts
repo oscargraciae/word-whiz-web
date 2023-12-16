@@ -15,7 +15,7 @@ export const lessonRouter = createRouter()
             vocabulary: {
               where: { isActive: true },
               include: {
-                vocabularyLerned: true
+                vocabularyLearned: true
               }
             },
           }
@@ -30,7 +30,27 @@ export const lessonRouter = createRouter()
     resolve: async ({ input }) => {
       const { topicId } = input;
       return {
-        lessons: await db.lesson.findMany({ where: { isActive: true, topicId }, orderBy: { name: 'asc' } }),
+        lessons: await db.lesson.findMany({
+          where: { isActive: true, topicId },
+          include: {
+            lessonUsers: true,
+          },
+          orderBy: { name: 'asc' }
+        }),
+      }
+    }
+  })
+  .query('getWords', {
+    resolve: async ({ input }) => {
+      return {
+        words: await db.vocabulary.findMany({
+          select: {
+            id: true,
+            wordEnglish: true,
+          },
+          skip: 50,
+          take: 10,
+        }),
       }
     }
   })

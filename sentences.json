@@ -1,0 +1,1226 @@
+[
+  {
+    "vocabularyId": "62eecad0d960c073170c7e18",
+    "sentenceSpanish": "Mi perro se llama Max.",
+    "sentenceEnglish": "My dog's name is Max."
+  },
+  {
+    "vocabularyId": "62eecad0d960c073170c7e18",
+    "sentenceSpanish": "Los perros son leales y cariñosos.",
+    "sentenceEnglish": "Dogs are loyal and affectionate."
+  },
+  {
+    "vocabularyId": "62eecad0d960c073170c7e18",
+    "sentenceSpanish": "Me encanta pasear a mi perro en el parque.",
+    "sentenceEnglish": "I love walking my dog in the park."
+  },
+  {
+    "vocabularyId": "62eecad0d960c073170c7e18",
+    "sentenceSpanish": "Mi perro siempre está emocionado cuando llego a casa.",
+    "sentenceEnglish": "My dog is always excited when I come home."
+  },
+  {
+    "vocabularyId": "62eecad0d960c073170c7e18",
+    "sentenceSpanish": "Mi perro ladra cuando alguien toca el timbre.",
+    "sentenceEnglish": "My dog barks when someone rings the doorbell."
+  },
+  {
+    "vocabularyId": "62eecad0d960c073170c7e18",
+    "sentenceSpanish": "Mi perro adora jugar con su pelota.",
+    "sentenceEnglish": "My dog loves playing with his ball."
+  },
+  {
+    "vocabularyId": "62eecad0d960c073170c7e18",
+    "sentenceSpanish": "Los perros son excelentes compañeros de vida.",
+    "sentenceEnglish": "Dogs are excellent life companions."
+  },
+  {
+    "vocabularyId": "62eecad0d960c073170c7e18",
+    "sentenceSpanish": "Mi perro es parte de mi familia.",
+    "sentenceEnglish": "My dog is part of my family."
+  },
+  {
+    "vocabularyId": "62eecad0d960c073170c7e18",
+    "sentenceSpanish": "Los perros son conocidos por su lealtad incondicional.",
+    "sentenceEnglish": "Dogs are known for their unconditional loyalty."
+  },
+  {
+    "vocabularyId": "62eecad0d960c073170c7e18",
+    "sentenceSpanish": "Mi perro siempre me hace reír con sus travesuras.",
+    "sentenceEnglish": "My dog always makes me laugh with his antics."
+  },
+  {
+    "vocabularyId": "62eecb29d960c073170c7e21",
+    "sentenceSpanish": "La tortuga se mueve lentamente.",
+    "sentenceEnglish": "The turtle moves slowly."
+  },
+  {
+    "vocabularyId": "62eecb29d960c073170c7e21",
+    "sentenceSpanish": "Las tortugas tienen un caparazón protector.",
+    "sentenceEnglish": "Turtles have a protective shell."
+  },
+  {
+    "vocabularyId": "62eecb29d960c073170c7e21",
+    "sentenceSpanish": "Me gusta observar las tortugas en el estanque.",
+    "sentenceEnglish": "I enjoy watching turtles in the pond."
+  },
+  {
+    "vocabularyId": "62eecb29d960c073170c7e22",
+    "sentenceSpanish": "Los conejos son animales ágiles y rápidos.",
+    "sentenceEnglish": "Rabbits are agile and fast animals."
+  },
+  {
+    "vocabularyId": "62eecb29d960c073170c7e22",
+    "sentenceSpanish": "Mi conejo se llama Coco y es muy juguetón.",
+    "sentenceEnglish": "My rabbit's name is Coco, and he is very playful."
+  },
+  {
+    "vocabularyId": "62eecb29d960c073170c7e22",
+    "sentenceSpanish": "Los conejos comen zanahorias y heno.",
+    "sentenceEnglish": "Rabbits eat carrots and hay."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e23",
+    "sentenceSpanish": "Los pájaros vuelan en el cielo.",
+    "sentenceEnglish": "Birds fly in the sky."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e23",
+    "sentenceSpanish": "Me gusta escuchar el canto de los pájaros por la mañana.",
+    "sentenceEnglish": "I enjoy listening to the birds' song in the morning."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e23",
+    "sentenceSpanish": "Los pájaros construyen nidos para poner sus huevos.",
+    "sentenceEnglish": "Birds build nests to lay their eggs."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e23",
+    "sentenceSpanish": "Los colibríes tienen colores brillantes y vuelan muy rápido.",
+    "sentenceEnglish": "Hummingbirds have bright colors and fly very fast."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e23",
+    "sentenceSpanish": "Las aves migratorias viajan largas distancias cada año.",
+    "sentenceEnglish": "Migratory birds travel long distances each year."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e24",
+    "sentenceSpanish": "El pez nada en el agua.",
+    "sentenceEnglish": "The fish swims in the water."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e24",
+    "sentenceSpanish": "Me gusta ir a pescar y atrapar peces.",
+    "sentenceEnglish": "I enjoy fishing and catching fish."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e24",
+    "sentenceSpanish": "Los peces tienen escamas que los protegen.",
+    "sentenceEnglish": "Fish have scales that protect them."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e24",
+    "sentenceSpanish": "Algunos peces viven en agua salada y otros en agua dulce.",
+    "sentenceEnglish": "Some fish live in saltwater, while others live in freshwater."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e24",
+    "sentenceSpanish": "El pez dorado es conocido por su color brillante.",
+    "sentenceEnglish": "The goldfish is known for its bright color."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e25",
+    "sentenceSpanish": "Mi gato se llama Luna y le gusta jugar con ovillos de lana.",
+    "sentenceEnglish": "My cat's name is Luna, and she likes playing with balls of yarn."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e25",
+    "sentenceSpanish": "A mi gato le gusta dormir en lugares cálidos y acogedores.",
+    "sentenceEnglish": "My cat enjoys sleeping in warm and cozy places."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e25",
+    "sentenceSpanish": "Los gatos son animales independientes y curiosos.",
+    "sentenceEnglish": "Cats are independent and curious animals."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e25",
+    "sentenceSpanish": "Los gatos tienen garras afiladas que usan para trepar y cazar.",
+    "sentenceEnglish": "Cats have sharp claws that they use for climbing and hunting."
+  },
+  {
+    "vocabularyId": "62eecb2ad960c073170c7e25",
+    "sentenceSpanish": "Me encanta acariciar a mi gato y sentir su suave pelaje.",
+    "sentenceEnglish": "I love petting my cat and feeling her soft fur."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2a",
+    "sentenceSpanish": "Mi pez dorado es pequeño y nadador ágil.",
+    "sentenceEnglish": "My goldfish is small and a agile swimmer."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2a",
+    "sentenceSpanish": "Los peces dorados son populares como mascotas en acuarios.",
+    "sentenceEnglish": "Goldfish are popular as pets in aquariums."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2a",
+    "sentenceSpanish": "Los peces dorados requieren un acuario limpio y bien mantenido.",
+    "sentenceEnglish": "Goldfish require a clean and well-maintained aquarium."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2a",
+    "sentenceSpanish": "Me gusta ver nadar a mi pez dorado en su acuario.",
+    "sentenceEnglish": "I enjoy watching my goldfish swim in its aquarium."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2a",
+    "sentenceSpanish": "Los peces dorados pueden reconocer a sus dueños.",
+    "sentenceEnglish": "Goldfish can recognize their owners."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2b",
+    "sentenceSpanish": "Mi hámster corre en su rueda durante la noche.",
+    "sentenceEnglish": "My hamster runs on his wheel during the night."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2b",
+    "sentenceSpanish": "Los hámsters son pequeños roedores que hacen mascotas adorables.",
+    "sentenceEnglish": "Hamsters are small rodents that make adorable pets."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2b",
+    "sentenceSpanish": "A los hámsters les gusta almacenar comida en sus mejillas.",
+    "sentenceEnglish": "Hamsters like to store food in their cheeks."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2b",
+    "sentenceSpanish": "Mi hámster es muy juguetón y le gusta explorar su jaula."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2b",
+    "sentenceSpanish": "Los hámsters necesitan tener juguetes y objetos para roer en su jaula.",
+    "sentenceEnglish": "Hamsters need to have toys and chew objects in their cage."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2c",
+    "sentenceSpanish": "Me encanta montar a caballo en el campo.",
+    "sentenceEnglish": "I love horseback riding in the countryside."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2c",
+    "sentenceSpanish": "Los caballos son animales fuertes y elegantes.",
+    "sentenceEnglish": "Horses are strong and elegant animals."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2c",
+    "sentenceSpanish": "Los caballos pueden ser entrenados para participar en competiciones de equitación.",
+    "sentenceEnglish": "Horses can be trained to participate in horse riding competitions."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2c",
+    "sentenceSpanish": "Los caballos se comunican entre sí a través de gestos y sonidos.",
+    "sentenceEnglish": "Horses communicate with each other through gestures and sounds."
+  },
+  {
+    "vocabularyId": "62eecb6ad960c073170c7e2c",
+    "sentenceSpanish": "Cepillo y acaricio a mi caballo para mantener su pelaje limpio y brillante.",
+    "sentenceEnglish": "I brush and pet my horse to keep its coat clean and shiny."
+  },
+  {
+    "vocabularyId": "62eecb6bd960c073170c7e2d",
+    "sentenceSpanish": "El ratón se esconde en su madriguera.",
+    "sentenceEnglish": "The mouse hides in its burrow."
+  },
+  {
+    "vocabularyId": "62eecb6bd960c073170c7e2d",
+    "sentenceSpanish": "Los ratones son pequeños roedores que pueden trepar y saltar.",
+    "sentenceEnglish": "Mice are small rodents that can climb and jump."
+  },
+  {
+    "vocabularyId": "62eecb6bd960c073170c7e2d",
+    "sentenceSpanish": "Los ratones tienen bigotes sensibles que les ayudan a orientarse.",
+    "sentenceEnglish": "Mice have sensitive whiskers that help them navigate."
+  },
+  {
+    "vocabularyId": "62eecb6bd960c073170c7e2d",
+    "sentenceSpanish": "A los gatos les gusta cazar ratones.",
+    "sentenceEnglish": "Cats enjoy hunting mice."
+  },
+  {
+    "vocabularyId": "62eecb6bd960c073170c7e2d",
+    "sentenceSpanish": "Los ratones construyen nidos con materiales suaves y fibras.",
+    "sentenceEnglish": "Mice build nests with soft materials and fibers."
+  },
+  {
+    "vocabularyId": "62eecb82d960c073170c7e31",
+    "sentenceSpanish": "El loro imita diferentes sonidos y palabras.",
+    "sentenceEnglish": "The parrot imitates different sounds and words."
+  },
+  {
+    "vocabularyId": "62eecb82d960c073170c7e31",
+    "sentenceSpanish": "Los loros son aves coloridas y sociables.",
+    "sentenceEnglish": "Parrots are colorful and social birds."
+  },
+  {
+    "vocabularyId": "62eecb82d960c073170c7e31",
+    "sentenceSpanish": "Me gusta ver cómo mi loro juega con sus juguetes.",
+    "sentenceEnglish": "I enjoy watching my parrot play with its toys."
+  },
+  {
+    "vocabularyId": "62eecb82d960c073170c7e31",
+    "sentenceSpanish": "Los loros pueden vivir por muchos años como mascotas.",
+    "sentenceEnglish": "Parrots can live for many years as pets."
+  },
+  {
+    "vocabularyId": "62eecb82d960c073170c7e31",
+    "sentenceSpanish": "Los loros pueden aprender a hablar palabras y frases.",
+    "sentenceEnglish": "Parrots can learn to speak words and phrases."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd184",
+    "sentenceSpanish": "Las almejas viven en aguas marinas y dulces.",
+    "sentenceEnglish": "Clams live in both saltwater and freshwater."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd184",
+    "sentenceSpanish": "Las almejas son bivalvos y tienen conchas duras.",
+    "sentenceEnglish": "Clams are bivalves and have hard shells."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd184",
+    "sentenceSpanish": "Me gusta comer almejas en sopa o al vapor.",
+    "sentenceEnglish": "I enjoy eating clams in soup or steamed."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd184",
+    "sentenceSpanish": "Las almejas son una fuente de proteínas y minerales.",
+    "sentenceEnglish": "Clams are a source of proteins and minerals."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd184",
+    "sentenceSpanish": "Las almejas filtran el agua para obtener su alimento.",
+    "sentenceEnglish": "Clams filter water to obtain their food."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd185",
+    "sentenceSpanish": "Las langostas de río son crustáceos que viven en agua dulce.",
+    "sentenceEnglish": "Crayfish are freshwater crustaceans."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd185",
+    "sentenceSpanish": "Las langostas de río tienen un exoesqueleto duro.",
+    "sentenceEnglish": "Crayfish have a hard exoskeleton."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd185",
+    "sentenceSpanish": "Me gusta cocinarlangostas de río en una salsa picante.",
+    "sentenceEnglish": "I enjoy cooking crayfish in a spicy sauce."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd185",
+    "sentenceSpanish": "Las langostas de río se alimentan de plantas y pequeños animales.",
+    "sentenceEnglish": "Crayfish feed on plants and small animals."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd185",
+    "sentenceSpanish": "Las langostas de río son utilizadas como cebo en la pesca deportiva.",
+    "sentenceEnglish": "Crayfish are used as bait in sport fishing."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd186",
+    "sentenceSpanish": "Las anchoas son peces pequeños que se utilizan en diversas preparaciones culinarias.",
+    "sentenceEnglish": "Anchovies are small fish used in various culinary preparations."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd186",
+    "sentenceSpanish": "Las anchoas se encuentran comúnmente enlatadas o en forma de pasta.",
+    "sentenceEnglish": "Anchovies are commonly found canned or in paste form."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd186",
+    "sentenceSpanish": "Las anchoas tienen un sabor salado y fuerte.",
+    "sentenceEnglish": "Anchovies have a salty and strong flavor."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd186",
+    "sentenceSpanish": "Me gusta agregar anchoas a las ensaladas para darles sabor.",
+    "sentenceEnglish": "I like to add anchovies to salads to give them flavor."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd186",
+    "sentenceSpanish": "Las anchoas son una buena fuente de ácidos grasos omega-3.",
+    "sentenceEnglish": "Anchovies are a good source of omega-3 fatty acids."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd187",
+    "sentenceSpanish": "Las anguilas son peces alargados y resbaladizos.",
+    "sentenceEnglish": "Eels are elongated and slippery fish."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd187",
+    "sentenceSpanish": "Las anguilas pueden vivir tanto en agua dulce como en agua salada.",
+    "sentenceEnglish": "Eels can live in both freshwater and saltwater."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd187",
+    "sentenceSpanish": "Las anguilas son utilizadas en la preparación de sushi y otros platos.",
+    "sentenceEnglish": "Eels are used in the preparation of sushi and other dishes."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd187",
+    "sentenceSpanish": "Me gusta asar las anguilas a la parrilla con especias.",
+    "sentenceEnglish": "I enjoy grilling eels with spices."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd187",
+    "sentenceSpanish": "Las anguilas tienen una textura suave y un sabor distintivo.",
+    "sentenceEnglish": "Eels have a smooth texture and a distinctive flavor."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd188",
+    "sentenceSpanish": "Los crustáceos son un grupo diverso que incluye cangrejos, langostas y camarones.",
+    "sentenceEnglish": "Crustaceans are a diverse group that includes crabs, lobsters, and shrimp."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd188",
+    "sentenceSpanish": "Los crustáceos tienen un exoesqueleto duro y articulado.",
+    "sentenceEnglish": "Crustaceans have a hard and jointed exoskeleton."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd188",
+    "sentenceSpanish": "Me gusta comer mariscos como los crustáceos en paellas y platos de arroz.",
+    "sentenceEnglish": "I enjoy eating seafood such as crustaceans in paellas and rice dishes."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd188",
+    "sentenceSpanish": "Los crustáceos son una fuente importante de proteínas y minerales.",
+    "sentenceEnglish": "Crustaceans are an important source of proteins and minerals."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd188",
+    "sentenceSpanish": "Los crustáceos mudan su exoesqueleto a medida que crecen.",
+    "sentenceEnglish": "Crustaceans molt their exoskeleton as they grow."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd189",
+    "sentenceSpanish": "Los arenques son peces pequeños y plateados.",
+    "sentenceEnglish": "Herrings are small and silvery fish."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd189",
+    "sentenceSpanish": "Los arenques se encuentran comúnmente en forma de filetes ahumados.",
+    "sentenceEnglish": "Herrings are commonly found in the form of smoked fillets."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd189",
+    "sentenceSpanish": "Me gusta hacer un paté de arenque para untar en pan tostado.",
+    "sentenceEnglish": "I like to make a herring pâté to spread on toast."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd189",
+    "sentenceSpanish": "Los arenques son ricos en ácidos grasos omega-3 y vitamina D.",
+    "sentenceEnglish": "Herrings are rich in omega-3 fatty acids and vitamin D."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd189",
+    "sentenceSpanish": "Los arenques se utilizan en la preparación de diversos platos tradicionales.",
+    "sentenceEnglish": "Herrings are used in the preparation of various traditional dishes."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18a",
+    "sentenceSpanish": "Los cangrejos son crustáceos que viven en aguas saladas y dulces.",
+    "sentenceEnglish": "Crabs are crustaceans that live in both saltwater and freshwater."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18a",
+    "sentenceSpanish": "Los cangrejos tienen un caparazón duro para proteger su cuerpo.",
+    "sentenceEnglish": "Crabs have a hard shell to protect their body."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18a",
+    "sentenceSpanish": "Me gusta comer cangrejos cocidos con mantequilla de ajo.",
+    "sentenceEnglish": "I enjoy eating crabs boiled with garlic butter."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18a",
+    "sentenceSpanish": "Los cangrejos caminan de lado debido a la estructura de sus patas.",
+    "sentenceEnglish": "Crabs walk sideways due to the structure of their legs."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18a",
+    "sentenceSpanish": "Los cangrejos son conocidos por su carne sabrosa y delicada.",
+    "sentenceEnglish": "Crabs are known for their tasty and delicate meat."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18b",
+    "sentenceSpanish": "La caballa es un pescado comúnmente conocido como mackerel.",
+    "sentenceEnglish": "Mackerel is a fish commonly known as mackerel."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18b",
+    "sentenceSpanish": "La caballa es un pez migratorio que se encuentra en aguas tropicales y templadas.",
+    "sentenceEnglish": "Mackerel is a migratory fish found in tropical and temperate waters."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18b",
+    "sentenceSpanish": "Me gusta hacer filetes de caballa a la parrilla con limón.",
+    "sentenceEnglish": "I enjoy grilling mackerel fillets with lemon."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18b",
+    "sentenceSpanish": "La caballa es rica en ácidos grasos omega-3 y vitamina B12.",
+    "sentenceEnglish": "Mackerel is rich in omega-3 fatty acids and vitamin B12."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18b",
+    "sentenceSpanish": "La caballa se utiliza en diversas preparaciones culinarias, como escabeche y enlatado.",
+    "sentenceEnglish": "Mackerel is used in various culinary preparations, such as pickling and canning."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18c",
+    "sentenceSpanish": "Los moluscos son animales invertebrados con conchas duras.",
+    "sentenceEnglish": "Molluscs are invertebrate animals with hard shells."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18c",
+    "sentenceSpanish": "Los moluscosincluyen almejas, mejillones, calamares y pulpos.",
+    "sentenceEnglish": "Molluscs include clams, mussels, squid, and octopus."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18c",
+    "sentenceSpanish": "Los moluscos tienen un pie muscular que les permite moverse.",
+    "sentenceEnglish": "Molluscs have a muscular foot that allows them to move."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18c",
+    "sentenceSpanish": "Me gusta comer mejillones al vapor con salsa de vino blanco.",
+    "sentenceEnglish": "I enjoy eating steamed mussels with white wine sauce."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18c",
+    "sentenceSpanish": "Los moluscos son una fuente de proteínas y minerales.",
+    "sentenceEnglish": "Molluscs are a source of proteins and minerals."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18d",
+    "sentenceSpanish": "El bacalao es un pez de agua salada muy utilizado en la cocina.",
+    "sentenceEnglish": "Cod is a saltwater fish widely used in cooking."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18d",
+    "sentenceSpanish": "Me encanta hacer filetes de bacalao a la parrilla con limón y hierbas.",
+    "sentenceEnglish": "I love grilling cod fillets with lemon and herbs."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18d",
+    "sentenceSpanish": "El bacalao es una excelente fuente de proteínas y ácidos grasos omega-3.",
+    "sentenceEnglish": "Cod is an excellent source of proteins and omega-3 fatty acids."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18d",
+    "sentenceSpanish": "El bacalao se utiliza en diversos platos, como el bacalao a la vizcaína y el fish and chips.",
+    "sentenceEnglish": "Cod is used in various dishes, such as bacalao a la vizcaína and fish and chips."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18d",
+    "sentenceSpanish": "El bacalao se puede encontrar fresco, congelado o en salazón.",
+    "sentenceEnglish": "Cod can be found fresh, frozen, or salted."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18e",
+    "sentenceSpanish": "La langosta es un crustáceo marino apreciado por su carne tierna y sabrosa.",
+    "sentenceEnglish": "Lobster is a marine crustacean valued for its tender and flavorful meat."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18e",
+    "sentenceSpanish": "Me gusta disfrutar de una buena langosta a la parrilla con mantequilla derretida.",
+    "sentenceEnglish": "I enjoy indulging in a delicious grilled lobster with melted butter."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18e",
+    "sentenceSpanish": "La langosta es un manjar popular en platos de mariscos y festividades especiales.",
+    "sentenceEnglish": "Lobster is a popular delicacy in seafood dishes and special celebrations."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18e",
+    "sentenceSpanish": "La langosta se puede cocinar al vapor, hervida, a la parrilla o al horno.",
+    "sentenceEnglish": "Lobster can be cooked by steaming, boiling, grilling, or baking."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18e",
+    "sentenceSpanish": "Las langostas grandes suelen tener más carne que las pequeñas.",
+    "sentenceEnglish": "Large lobsters often have more meat than small ones."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18f",
+    "sentenceSpanish": "El bajo es un pez de agua dulce muy buscado por los pescadores.",
+    "sentenceEnglish": "Bass is a freshwater fish highly sought after by fishermen."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18f",
+    "sentenceSpanish": "Me gusta pescar bajo en el lago cercano.",
+    "sentenceEnglish": "I enjoy fishing for bass in the nearby lake."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18f",
+    "sentenceSpanish": "El bajo se caracteriza por su sabor suave y su carne blanca y tierna.",
+    "sentenceEnglish": "Bass is known for its mild flavor and white, tender flesh."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18f",
+    "sentenceSpanish": "El bajo se puede preparar a la parrilla, al horno o en sopa.",
+    "sentenceEnglish": "Bass can be prepared by grilling, baking, or in soup."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd18f",
+    "sentenceSpanish": "Los pescadores deportivos disfrutan desafiándose a sí mismos con la pesca de bajo.",
+    "sentenceEnglish": "Sport fishermen enjoy challenging themselves with bass fishing."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd190",
+    "sentenceSpanish": "La rana pescadora es conocida por su sabor único y su textura firme.",
+    "sentenceEnglish": "Monkfish is known for its unique flavor and firm texture."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd190",
+    "sentenceSpanish": "Me gusta preparar filetes de rape al horno con hierbas y aceite de oliva.",
+    "sentenceEnglish": "I enjoy baking monkfish fillets with herbs and olive oil."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd190",
+    "sentenceSpanish": "El rape es un pez depredador que se encuentra en aguas profundas.",
+    "sentenceEnglish": "Monkfish is a predatory fish found in deep waters."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd190",
+    "sentenceSpanish": "El rape es valorado en la alta cocina por su versatilidad y sabor sofisticado.",
+    "sentenceEnglish": "Monkfish is highly regarded in haute cuisine for its versatility and sophisticated flavor."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd190",
+    "sentenceSpanish": "El rape se utiliza en platos como la zarzuela de mariscos y las paellas.",
+    "sentenceEnglish": "Monkfish is used in dishes such as seafood stew and paellas."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd191",
+    "sentenceSpanish": "El pulpo es un cefalópodo inteligente que puede cambiar de color para camuflarse.",
+    "sentenceEnglish": "Octopus is an intelligent cephalopod that can change color to camouflage itself."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd191",
+    "sentenceSpanish": "Me encanta comer pulpo a la gallega con patatas y pimentón.",
+    "sentenceEnglish": "I love eating Galician-style octopus with potatoes and paprika."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd191",
+    "sentenceSpanish": "El pulpo es valorado en la gastronomía por su textura tierna y su sabor delicado.",
+    "sentenceEnglish": "Octopus is highly regarded in gastronomy for its tender texture and delicate flavor."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd191",
+    "sentenceSpanish": "El pulpo se puede preparar a la parrilla, al vapor o en guisos.",
+    "sentenceEnglish": "Octopus can be prepared by grilling, steaming, or in stews."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd191",
+    "sentenceSpanish": "El pulpo es una delicia en platos como el pulpo a feira y las ensaladas de mariscos.",
+    "sentenceEnglish": "Octopus is a delicacy in dishes such as pulpo a feira and seafood salads."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd192",
+    "sentenceSpanish": "Las sardinas son un pez pequeño y sabroso muy consumido en muchas culturas.",
+    "sentenceEnglish": "Sardines are small, flavorful fish consumed in many cultures."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd192",
+    "sentenceSpanish": "Me gusta asar sardinas frescas con limón y aceite de oliva.",
+    "sentenceEnglish": "I enjoy grilling fresh sardines with lemon and olive oil."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd192",
+    "sentenceSpanish": "Las sardinas son ricas en ácidos grasos omega-3 y vitamina D.",
+    "sentenceEnglish": "Sardines are rich in omega-3 fatty acids and vitamin D."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd192",
+    "sentenceSpanish": "Las sardinas enlatadas son una opción conveniente y versátil para recetas rápidas.",
+    "sentenceEnglish": "Canned sardines are a convenient and versatile option for quick recipes."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd192",
+    "sentenceSpanish": "Las sardinas se pueden servir como aperitivo, en ensaladas o como parte de platos principales.",
+    "sentenceEnglish": "Sardines can be served as appetizers, in salads, or as part of main dishes."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd193",
+    "sentenceSpanish": "Las ostras son moluscos bivalvos muy apreciados por su sabor y textura únicos.",
+    "sentenceEnglish": "Oysters are bivalve mollusks highly prized for their unique flavor and texture."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd193",
+    "sentenceSpanish": "Me gusta comer ostras crudas con limón y salsa mignonette.",
+    "sentenceEnglish": "I enjoy eating raw oysters with lemon and mignonette sauce."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd193",
+    "sentenceSpanish": "Las ostras son consideradas un manjar en la alta cocina y se sirven en ocasiones especiales.",
+    "sentenceEnglish": "Oysters are considered a delicacy in fine dining and are served on special occasions."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd193",
+    "sentenceSpanish": "Las ostras se pueden preparar al vapor, a la parrilla o gratinadas.",
+    "sentenceEnglish": "Oysters can be prepared by steaming, grilling, or broiling."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd193",
+    "sentenceSpanish": "Las ostras frescas deben tener un olor marino agradable y estar cerradas antes de consumirlas.",
+    "sentenceEnglish": "Fresh oysters should have a pleasant sea smell and be closed before consuming them."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd194",
+    "sentenceSpanish": "El tiburón es un pez depredador temido y fascinante que habita en los océanos.",
+    "sentenceEnglish": "Shark is a feared and fascinating predatory fish that inhabits the oceans."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd194",
+    "sentenceSpanish": "Me gusta ver documentales sobre el comportamiento de los tiburones.",
+    "sentenceEnglish": "I enjoy watching documentaries about shark behavior."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd194",
+    "sentenceSpanish": "El tiburón desempeña un papel crucial en el equilibrio de los ecosistemas marinos.",
+    "sentenceEnglish": "Sharks play a crucial role in maintaining the balance of marine ecosystems."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd194",
+    "sentenceSpanish": "El tiburón se puede encontrar en diferentes tamaños y especies, cada una con características únicas.",
+    "sentenceEnglish": "Sharks can be found in different sizes and species, each with unique characteristics."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd194",
+    "sentenceSpanish": "El consumo de tiburón debe ser regulado para proteger las poblaciones y evitar la sobreexplotación.",
+    "sentenceEnglish": "Shark consumption should be regulated to protect populations and prevent overexploitation."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd195",
+    "sentenceSpanish": "La lenguado es un pez plano que se encuentra en fondos arenosos y fangosos.",
+    "sentenceEnglish": "Sole is a flatfish found in sandy and muddy bottoms."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd195",
+    "sentenceSpanish": "Me gusta preparar filetes de lenguado al limón con salsa de mantequilla y alcaparras.",
+    "sentenceEnglish": "I enjoy preparing lemon sole fillets with butter and caper sauce."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd195",
+    "sentenceSpanish": "El lenguado se caracteriza por su textura delicada y su sabor suave y dulce.",
+    "sentenceEnglish": "Sole is characterized by its delicate texture and mild, sweet flavor."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd195",
+    "sentenceSpanish": "El lenguado se puede cocinar a la plancha, al horno o en frituras.",
+    "sentenceEnglish": "Sole can be cooked by grilling, baking, or frying."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd195",
+    "sentenceSpanish": "El lenguado es apreciado en la cocina gourmet y se utiliza en platos refinados.",
+    "sentenceEnglish": "Sole is appreciated in gourmet cuisine and is used in refined dishes."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd196",
+    "sentenceSpanish": "Los camarones son crustáceos pequeños y sabrosos que se encuentran en aguas marinas y dulces.",
+    "sentenceEnglish": "Shrimps are small, flavorful crustaceans found in marine and freshwater environments."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd196",
+    "sentenceSpanish": "Me encanta comer camarones a la parrilla con salsa de ajo y limón.",
+    "sentenceEnglish": "I love eating grilled shrimps with garlic and lemon sauce."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd196",
+    "sentenceSpanish": "Los camarones son versátiles y se pueden preparar de diversas formas, como a la plancha, en frituras o en ensaladas.",
+    "sentenceEnglish": "Shrimps are versatile and can be prepared in various ways, such as grilling, frying, or in salads."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd196",
+    "sentenceSpanish": "Los camarones son una fuente de proteínas magras y se consideran mariscos de bajo contenido calórico.",
+    "sentenceEnglish": "Shrimps are a source of lean protein and are considered low-calorie seafood."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd196",
+    "sentenceSpanish": "Los camarones se utilizan en una amplia variedad de platos, como paellas, curry y pasta.",
+    "sentenceEnglish": "Shrimps are used in a wide variety of dishes, such as paellas, curries, and pasta."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd197",
+    "sentenceSpanish": "Me gusta comer calamares fritos con salsa alioli.",
+    "sentenceEnglish": "I enjoy eating fried squid with garlic mayo sauce."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd197",
+    "sentenceSpanish": "El calamar es un molusco marino que tiene un cuerpo alargado y tentáculos.",
+    "sentenceEnglish": "Squid is a marine mollusk that has an elongated body and tentacles."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd197",
+    "sentenceSpanish": "Los calamares son populares en la cocina mediterránea y se preparan de varias formas.",
+    "sentenceEnglish": "Squid is popular in Mediterranean cuisine and can be prepared in various ways."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd197",
+    "sentenceSpanish": "El calamar gigante es una especie que puede alcanzar tamaños impresionantes.",
+    "sentenceEnglish": "The giant squid is a species that can reach impressive sizes."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd197",
+    "sentenceSpanish": "Algunas especies de calamares emiten luz para comunicarse y confundir a sus depredadores.",
+    "sentenceEnglish": "Some squid species emit light to communicate and confuse their predators."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd198",
+    "sentenceSpanish": "El pargo rojo se puede cocinar a la parrilla, al horno o al vapor.",
+    "sentenceEnglish": "Red snapper can be cooked on the grill, in the oven, or steamed."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd198",
+    "sentenceSpanish": "El pargo rojo es un pescado sabroso y versátil que se encuentra en aguas tropicales.",
+    "sentenceEnglish": "Red snapper is a tasty and versatile fish found in tropical waters."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd198",
+    "sentenceSpanish": "El pargo rojo tiene una piel de color rojo brillante y escamas plateadas.",
+    "sentenceEnglish": "Red snapper has a bright red skin and silver scales."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd198",
+    "sentenceSpanish": "El pargo rojo es apreciado por su carne firme y su sabor dulce.",
+    "sentenceEnglish": "Red snapper is valued for its firm flesh and sweet flavor."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd198",
+    "sentenceSpanish": "El pargo rojo es un pez popular en la pesca deportiva debido a su resistencia y tamaño.",
+    "sentenceEnglish": "Red snapper is a popular fish in sport fishing due to its strength and size."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd199",
+    "sentenceSpanish": "La trucha arcoíris es una especie de trucha muy apreciada por su colorido y sabor.",
+    "sentenceEnglish": "Rainbow trout is a trout species highly valued for its color and flavor."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd199",
+    "sentenceSpanish": "La trucha se puede encontrar en ríos y lagos de agua fría.",
+    "sentenceEnglish": "Trout can be found in cold-water rivers and lakes."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd199",
+    "sentenceSpanish": "La pesca de la trucha es popular entre los aficionados a la pesca recreativa.",
+    "sentenceEnglish": "Trout fishing is popular among recreational anglers."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd199",
+    "sentenceSpanish": "La trucha marrón es otra especie de trucha comúnmente buscada por los pescadores.",
+    "sentenceEnglish": "Brown trout is another trout species commonly sought after by anglers."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd199",
+    "sentenceSpanish": "La carne de trucha es delicada y se cocina rápidamente.",
+    "sentenceEnglish": "Trout meat is delicate and cooks quickly."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19a",
+    "sentenceSpanish": "El atún se utiliza para preparar sushi, sashimi y otros platos japoneses.",
+    "sentenceEnglish": "Tuna is used to prepare sushi, sashimi, and other Japanese dishes."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19a",
+    "sentenceSpanish": "El atún rojo es una especie de atún muy valorada por su sabor y textura.",
+    "sentenceEnglish": "Bluefin tuna is a highly valued tuna species for its flavor and texture."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19a",
+    "sentenceSpanish": "El atún enlatado es una opción conveniente para agregar proteínas a las comidas.",
+    "sentenceEnglish": "Canned tuna is a convenient option to add protein to meals."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19a",
+    "sentenceSpanish": "El atún patudo es conocido por su velocidad y se considera un pez deportivo.",
+    "sentenceEnglish": "Yellowfin tuna is known for its speed and is considered a sport fish."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19a",
+    "sentenceSpanish": "El atún se distribuye ampliamente en los océanos y es objeto de pesca comercial.",
+    "sentenceEnglish": "Tuna is widely distributed in the oceans and is the target of commercial fishing."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19b",
+    "sentenceSpanish": "El perca es un pez de agua dulce que se encuentra en lagos y ríos de Europa.",
+    "sentenceEnglish": "Perch is a freshwater fish found in lakes and rivers in Europe."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19b",
+    "sentenceSpanish": "El perca americana es una especie introducida que ha prosperado en muchos cuerpos de agua de América del Norte.",
+    "sentenceEnglish": "Yellow perch is an introduced species that has thrived in many North American water bodies."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19b",
+    "sentenceSpanish": "La pesca de la perca es popular debido a su abundancia y su sabor suave.",
+    "sentenceEnglish": "Perch fishing is popular due to their abundance and mild flavor."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19b",
+    "sentenceSpanish": "El perca europea es una especie nativa de Europa que se utiliza en la acuicultura.",
+    "sentenceEnglish": "European perch is a native species of Europe used in aquaculture."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19b",
+    "sentenceSpanish": "El perca es un pez depredador que se alimenta de otros peces más pequeños.",
+    "sentenceEnglish": "Perch is a predatory fish that feeds on smaller fish."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19c",
+    "sentenceSpanish": "El salmón se considera un pescado graso y es una buena fuente de ácidos grasos omega-3.",
+    "sentenceEnglish": "Salmon is considered a fatty fish and is a good source of omega-3 fatty acids."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19c",
+    "sentenceSpanish": "El salmón atlántico es una especie de salmón que se encuentra en el océano Atlántico.",
+    "sentenceEnglish": "Atlantic salmon is a salmon species found in the Atlantic Ocean."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19c",
+    "sentenceSpanish": "El salmón se puede ahumar para darle un sabor distintivo.",
+    "sentenceEnglish": "Salmon can be smoked to give it a distinctive flavor."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19c",
+    "sentenceSpanish": "El salmón rosado es una especie de salmón que se encuentra en el océano Pacífico.",
+    "sentenceEnglish": "Pink salmon is a salmon species found in the Pacific Ocean."
+  },
+  {
+    "vocabularyId": "62f1cb0089ffe875cf1cd19c",
+    "sentenceSpanish": "El salmón nadador es capaz de realizar largas migraciones desde el océano hasta los ríos.",
+    "sentenceEnglish": "Swimming salmon are capable of undertaking long migrations from the ocean to rivers."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1b7",
+    "sentenceSpanish": "Los chinches de cama pueden causar picaduras y reacciones alérgicas en algunas personas.",
+    "sentenceEnglish": "Bedbugs can cause bites and allergic reactions in some people."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1b7",
+    "sentenceSpanish": "Los chinches de cama son pequeños insectos que se alimentan de sangre humana.",
+    "sentenceEnglish": "Bedbugs are small insects that feed on human blood."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1b7",
+    "sentenceSpanish": "La presencia de chinches de cama en el hogar puede requerir la ayuda de un exterminador profesional.",
+    "sentenceEnglish": "The presence of bedbugs in the home may require the assistance of a professional exterminator."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1b7",
+    "sentenceSpanish": "Es importante lavar la ropa de cama y aspirar regularmente para prevenir una infestación de chinches.",
+    "sentenceEnglish": "It's important to regularly wash bedding and vacuum to prevent a bedbug infestation."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1b7",
+    "sentenceSpanish": "Los chinches de cama pueden esconderse en grietas y hendiduras, lo que dificulta su eliminación.",
+    "sentenceEnglish": "Bedbugs can hide in cracks and crevices, making their elimination challenging."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1b9",
+    "sentenceSpanish": "El ciempiés es un insecto que pertenece a la clase Chilopoda.",
+    "sentenceEnglish": "Centipede is an insect belonging to the class Chilopoda."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1b9",
+    "sentenceSpanish": "El ciempiés tiene un cuerpo largo y segmentado, con un par de patas en cada segmento.",
+    "sentenceEnglish": "Centipede has a long and segmented body, with a pair of legs on each segment."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1b9",
+    "sentenceSpanish": "Los ciempiés son depredadores y se alimentan de otros insectos y pequeños invertebrados.",
+    "sentenceEnglish": "Centipedes are predators and feed on other insects and small invertebrates."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1b9",
+    "sentenceSpanish": "El ciempiés se encuentra en diversos hábitats, desde bosques hasta jardines y cuevas.",
+    "sentenceEnglish": "Centipede is found in various habitats, from forests to gardens and caves."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1b9",
+    "sentenceSpanish": "Algunas especies de ciempiés tienen una mordedura venenosa, pero rara vez representan una amenaza para los humanos.",
+    "sentenceEnglish": "Some species of centipedes have a venomous bite, but they rarely pose a threat to humans."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1ba",
+    "sentenceSpanish": "Las hormigas trabajan en equipo para conseguir comida para la colonia.",
+    "sentenceEnglish": "Ants work together to gather food for the colony."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1ba",
+    "sentenceSpanish": "Las hormigas son insectos sociales que viven en colonias organizadas.",
+    "sentenceEnglish": "Ants are social insects that live in organized colonies."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1ba",
+    "sentenceSpanish": "Las hormigas cortadoras de hojas recolectan trozos de hojas para cultivar hongos y alimentar a la colonia.",
+    "sentenceEnglish": "Leaf-cutter ants collect leaf fragments to cultivate fungi and feed the colony."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1ba",
+    "sentenceSpanish": "Las hormigas pueden comunicarse entre sí mediante feromonas y señales táctiles.",
+    "sentenceEnglish": "Ants can communicate with each other through pheromones and tactile signals."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1ba",
+    "sentenceSpanish": "Las hormigas desempeñan un papel importante en los ecosistemas al descomponer la materia orgánica y dispersar las semillas.",
+    "sentenceEnglish": "Ants play an important role in ecosystems by decomposing organic matter and dispersing seeds."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bc",
+    "sentenceSpanish": "Las abejas son polinizadoras clave en la reproducción de plantas.",
+    "sentenceEnglish": "Bees are key pollinators in plant reproduction."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bc",
+    "sentenceSpanish": "Las abejas recolectan néctar de las flores para producir miel en sus colmenas.",
+    "sentenceEnglish": "Bees collect nectar from flowers to produce honey in their hives."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bc",
+    "sentenceSpanish": "Las abejas viven en colonias organizadas y realizan diferentes roles dentro de la colmena.",
+    "sentenceEnglish": "Bees live in organized colonies and perform different roles within the hive."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bc",
+    "sentenceSpanish": "Las abejas son conocidas por su danza de la abeja para comunicar la ubicación de las fuentes de alimento.",
+    "sentenceEnglish": "Bees are known for their bee dance to communicate the location of food sources."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bc",
+    "sentenceSpanish": "Las abejas son importantes para la polinización de cultivos y contribuyen a la producción de alimentos.",
+    "sentenceEnglish": "Bees are important for crop pollination and contribute to food production."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bd",
+    "sentenceSpanish": "Las mariposas son conocidas por sus coloridas alas y su delicado vuelo.",
+    "sentenceEnglish": "Butterflies are known for their colorful wings and delicate flight."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bd",
+    "sentenceSpanish": "Las mariposas pasan por diferentes etapas de desarrollo, incluyendo la etapa de oruga y la etapa de pupa.",
+    "sentenceEnglish": "Butterflies go through different stages of development, including the caterpillar stage and the pupa stage."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bd",
+    "sentenceSpanish": "Las mariposas migran grandes distancias durante sus rutas migratorias.",
+    "sentenceEnglish": "Butterflies migrate long distances during their migration routes."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bd",
+    "sentenceSpanish": "Las mariposas se alimentan principalmente del néctar de las flores.",
+    "sentenceEnglish": "Butterflies mainly feed on the nectar of flowers."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bd",
+    "sentenceSpanish": "Las mariposas son atraídas por colores brillantes y fragancias dulces.",
+    "sentenceEnglish": "Butterflies are attracted to bright colors and sweet fragrances."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1be",
+    "sentenceSpanish": "Las cucarachas son conocidas por su resistencia y adaptabilidad a diferentes entornos.",
+    "sentenceEnglish": "Cockroaches are known for their resilience and adaptability to different environments."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1be",
+    "sentenceSpanish": "Las cucarachas pueden sobrevivir sin comida durante largos períodos de tiempo.",
+    "sentenceEnglish": "Cockroaches can survive without food for long periods of time."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1be",
+    "sentenceSpanish": "Las cucarachas se reproducen rápidamente y pueden convertirse en una plaga si no se controlan.",
+    "sentenceEnglish": "Cockroaches reproduce quickly and can become a pest if not controlled."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1be",
+    "sentenceSpanish": "Las cucarachas son nocturnas y se esconden en grietas y lugares oscuros durante el día.",
+    "sentenceEnglish": "Cockroaches are nocturnal and hide in cracks and dark places during the day."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1be",
+    "sentenceSpanish": "Las cucarachas pueden transmitir enfermedades y alergias a través de su saliva y excrementos.",
+    "sentenceEnglish": "Cockroaches can transmit diseases and allergies through their saliva and droppings."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bf",
+    "sentenceSpanish": "Los grillos producen su característico canto para atraer a las hembras.",
+    "sentenceEnglish": "Crickets produce their characteristic chirping sound to attract females."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bf",
+    "sentenceSpanish": "Los grillos son insectos saltadores y tienen patas traseras fuertes.",
+    "sentenceEnglish": "Crickets are hopping insects and have strong hind legs."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bf",
+    "sentenceSpanish": "Los grillos se alimentan principalmente de plantas, pero también pueden comer otros insectos.",
+    "sentenceEnglish": "Crickets mainly feed on plants, but they can also eat other insects."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bf",
+    "sentenceSpanish": "Los grillos son conocidos por su presencia en áreas rurales y su canto nocturno.",
+    "sentenceEnglish": "Crickets are known for their presence in rural areas and their nocturnal chirping."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1bf",
+    "sentenceSpanish": "Los grillos son considerados símbolos de buena suerte en algunas culturas.",
+    "sentenceEnglish": "Crickets are considered symbols of good luck in some cultures."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c0",
+    "sentenceSpanish": "Las libélulas tienen un vuelo ágil y son expertas cazadoras de insectos.",
+    "sentenceEnglish": "Dragonflies have agile flight and are skilled insect hunters."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c0",
+    "sentenceSpanish": "Las libélulas tienen cuerpos delgados y largas alas transparentes.",
+    "sentenceEnglish": "Dragonflies have slender bodies and long transparent wings."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c0",
+    "sentenceSpanish": "Las libélulas pasan la mayor parte de su vida en forma de larvas acuáticas.",
+    "sentenceEnglish": "Dragonflies spend most of their life as aquatic larvae."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c0",
+    "sentenceSpanish": "Las libélulas se encuentran en hábitats acuáticos como estanques y ríos.",
+    "sentenceEnglish": "Dragonflies are found in aquatic habitats such as ponds and rivers."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c0",
+    "sentenceSpanish": "Las libélulas son conocidas por sus patrones de vuelo rápidos y erráticos.",
+    "sentenceEnglish": "Dragonflies are known for their fast and erratic flight patterns."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c1",
+    "sentenceSpanish": "Las moscas son insectos voladores que se encuentran en casi todos los entornos.",
+    "sentenceEnglish": "Flies are flying insects found in almost all environments."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c1",
+    "sentenceSpanish": "Las moscas tienen una vida corta, pero se reproducen rápidamente.",
+    "sentenceEnglish": "Flies have a short lifespan, but they reproduce quickly."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c1",
+    "sentenceSpanish": "Las moscas se alimentan de diversos materiales, incluyendo alimentos en descomposición y excrementos.",
+    "sentenceEnglish": "Flies feed on various materials, including decomposing food and feces."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c1",
+    "sentenceSpanish": "Las moscas son vectores de enfermedades y pueden transmitir bacterias y parásitos.",
+    "sentenceEnglish": "Flies are disease vectors and can transmit bacteria and parasites."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c1",
+    "sentenceSpanish": "Las moscas pueden ser una molestia en áreas donde se preparan alimentos.",
+    "sentenceEnglish": "Flies can be a nuisance in areas where food is prepared."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c2",
+    "sentenceSpanish": "Los piojos son insectos parásitos que infestan el cabello humano.",
+    "sentenceEnglish": "Lice are parasitic insects that infest human hair."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c2",
+    "sentenceSpanish": "Los piojos se propagan principalmente por contacto directo de cabeza a cabeza.",
+    "sentenceEnglish": "Lice are mainly spread through direct head-to-head contact."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c2",
+    "sentenceSpanish": "Los piojos se alimentan de sangre del cuero cabelludo humano.",
+    "sentenceEnglish": "Lice feed on blood from the human scalp."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c2",
+    "sentenceSpanish": "Los piojos pueden causar picazón intensa y malestar en el cuero cabelludo.",
+    "sentenceEnglish": "Lice can cause intense itching and discomfort on the scalp."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c2",
+    "sentenceSpanish": "Los piojos son más comunes en entornos con hacinamiento y falta de higiene.",
+    "sentenceEnglish": "Lice are more common in crowded and unhygienic environments."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c3",
+    "sentenceSpanish": "Las polillas son insectos nocturnos que vuelan alrededor de la luz.",
+    "sentenceEnglish": "Moths are nocturnal insects that fly around lights."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c3",
+    "sentenceSpanish": "Las polillas tienen una apariencia similar a las mariposas, pero son más pequeñas y generalmente de color marrón.",
+    "sentenceEnglish": "Moths have a similar appearance to butterflies, but they are smaller and usually brown in color."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c3",
+    "sentenceSpanish": "Las polillas se alimentan de diversos materiales, como telas y alimentos almacenados.",
+    "sentenceEnglish": "Moths feed on various materials, such as fabrics and stored food."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c3",
+    "sentenceSpanish": "Las polillas pueden dañar la ropa y otros productos textiles.",
+    "sentenceEnglish": "Moths can damage clothing and other textile products."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c3",
+    "sentenceSpanish": "Las polillas pueden encontrarse en armarios, áticos y otros lugares oscuros y poco frecuentados.",
+    "sentenceEnglish": "Moths can be found in closets, attics, and other dark and infrequently visited places."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c4",
+    "sentenceSpanish": "Los milpiés son invertebrados que tienen muchas patas segmentadas.",
+    "sentenceEnglish": "Millipedes are invertebrates that have many segmented legs."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c4",
+    "sentenceSpanish": "Los milpiés se encuentran en ambientes húmedos y se alimentan de materia vegetal en descomposición.",
+    "sentenceEnglish": "Millipedes are found in moist environments and feed on decomposing plant matter."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c4",
+    "sentenceSpanish": "Los milpiés son importantes para el equilibrio del ecosistema al descomponer la materia orgánica.",
+    "sentenceEnglish": "Millipedes are important for ecosystem balance by decomposing organic matter."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c4",
+    "sentenceSpanish": "Los milpiés tienen una apariencia similar a los ciempiés, pero son más lentos y generalmente no son venenosos.",
+    "sentenceEnglish": "Millipedes have a similar appearance to centipedes, but they are slower and generally not venomous."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c5",
+    "sentenceSpanish": "Los escorpiones son arácnidos con un par de pinzas y una cola con un aguijón venenoso.",
+    "sentenceEnglish": "Scorpions are arachnids with a pair of pincers and a tail with a venomous stinger."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c5",
+    "sentenceSpanish": "Los escorpiones se encuentran en diferentes hábitats, desde desiertos hasta selvas tropicales.",
+    "sentenceEnglish": "Scorpions are found in various habitats, from deserts to tropical jungles."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c5",
+    "sentenceSpanish": "Los escorpiones se alimentan principalmente de insectos, pero también pueden cazar pequeños vertebrados.",
+    "sentenceEnglish": "Scorpions mainly feed on insects, but they can also hunt small vertebrates."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c5",
+    "sentenceSpanish": "Los escorpiones son conocidos por su veneno, que puede ser peligroso para los seres humanos.",
+    "sentenceEnglish": "Scorpions are known for their venom, which can be dangerous to humans."
+  },
+  {
+    "vocabularyId": "62f1cd3389ffe875cf1cd1c5",
+    "sentenceSpanish": "Los escorpiones son animales nocturnos y se esconden durante el día en grietas y cuevas.",
+    "sentenceEnglish": "Scorpions are nocturnal animals and hide during the day in cracks and caves."
+  }
+]

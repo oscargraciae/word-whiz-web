@@ -23,3 +23,21 @@ export const lessonUserRouter = createRouter()
       return { lessonUser }
     }
   })
+  .query('lastLessons', {
+    resolve: async ({ ctx }) => {
+      const userId: string = ctx.user!.id;
+      return await db.lessonUser.findMany({
+        where: { userId, progress: { lt: 100 } },
+        include: {
+          lesson: {
+            include: {
+              lessonUsers: true
+            }
+          },
+        },
+        orderBy: {
+          updatedAt: 'desc'
+        }
+      })
+    }
+  })

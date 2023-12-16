@@ -8,7 +8,7 @@ export const textToSpeak = (text: string) => {
     // msg.pitch = 2; // From 0 to 2
     msg.text = text
     //msg.lang = 'es';
-    msg.lang = 'en';
+    // msg.lang = 'en';
     speechSynthesis.speak(msg);
 
     // voices.map((voice) => {

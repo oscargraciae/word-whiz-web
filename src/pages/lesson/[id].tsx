@@ -10,6 +10,7 @@ export default function LessonPage () {
   const id = router.query.id as string
 
   const { data, isLoading } = trpc.useQuery(['lesson.get', { id }])
+
   if (isLoading) {
     return <div>Loading...</div>
   }

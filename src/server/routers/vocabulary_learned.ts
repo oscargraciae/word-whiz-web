@@ -2,7 +2,7 @@ import { z } from "zod";
 import db from "../../../lib/db";
 import { createRouter } from "../createRouter";
 
-const TIMES_TO_LEARN_VOCABULARY = 15;
+const TIMES_TO_LEARN_VOCABULARY = 12;
 
 export const vocabularyLearnedRouter = createRouter()
   .mutation('create', {

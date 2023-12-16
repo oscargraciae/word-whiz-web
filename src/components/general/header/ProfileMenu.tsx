@@ -21,13 +21,13 @@ export const ProfileMenu = ({ user }: ProfileMenuProps) => {
         </Menu.Button>
       </div>
       <Menu.Items className="absolute right-0 z-10 block mt-2 origin-top-right bg-white divide-y divide-gray-100 rounded-md shadow-lg w-52 top-6 ring-1 ring-black ring-opacity-5 focus:outline-none">
-        <Menu.Item>
+        {/* <Menu.Item>
           { ({ active }) => (
             <Link href='/publica-tu-espacio'>
               <a className='flex items-center w-full gap-1 px-4 py-2 text-sm font-semibold text-gray-900 rounded-md group hover:bg-blue-100'>Publica tu espacio</a>
             </Link>
           )}
-        </Menu.Item>
+        </Menu.Item> */}
         <Menu.Item>
           {({ active }) => (
             <a

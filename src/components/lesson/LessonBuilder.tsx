@@ -22,9 +22,7 @@ export const LessonBuilder = () => {
     document.addEventListener('keypress', handleClick);
   }, []);
 
-  if (lessonStatus === 'finished' || lessonStatus === 'losed') {
-    return <LessionFinished />
-  }
+  if (lessonStatus === 'finished' || lessonStatus === 'losed') return <LessionFinished />
 
   if (statusAnswer === 'incorrect') return <WrongAnswer vocabulary={currentVocabulary} />
 

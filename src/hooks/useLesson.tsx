@@ -57,13 +57,10 @@ export const useLesson = ({ lesson }: { lesson: any }) => {
   }
 
   const getVocabulary = (vocabulary: any): any => {
+    const vocabularyIntermediate = vocabulary.filter((item: any) => (item.vocabularyLearned.length > 0 && item.vocabularyLearned[0].progress < 100))
+    const vocabularyHard = vocabulary.filter((item: any) => (item.vocabularyLearned.length > 0 && item.vocabularyLearned[0].progress < 50))
 
-    const vocabularyIntermediate = vocabulary.filter((item: any) => item.vocabularyLerned[0].progress < 100)
-    const vocabularyHard = vocabulary.filter((item: any) => item.vocabularyLerned[0].progress < 50)
-
-    const vocabularyList = [...vocabulary, ...vocabularyIntermediate, ...vocabularyIntermediate, ...vocabularyHard, ...vocabularyHard, ...vocabularyHard]
-
-    console.log('vocabularyList', vocabularyList)
+    const vocabularyList = [...vocabulary, ...vocabularyIntermediate, ...vocabularyIntermediate, ...vocabularyHard, ...vocabularyHard, ...vocabularyHard, ...vocabularyHard]
 
     const randomIndex = Math.floor(Math.random() * vocabularyList.length)
     return vocabularyList[randomIndex]

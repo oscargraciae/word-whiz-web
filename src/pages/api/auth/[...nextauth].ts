@@ -19,7 +19,7 @@ export default NextAuth({
   ],
   callbacks: {
     session: async (session: any, user: any) => {
-      session.userId = user?.id;    
+      session.userId = user?.id;
       return Promise.resolve(session);
     }
   }
